@@ -1,0 +1,15 @@
+C:\Users\Дашуля\Desktop\Новая папка\Example002_НelloUser\bin\Debug\net8.0\Example002_НelloUser.exe
+C:\Users\Дашуля\Desktop\Новая папка\Example002_НelloUser\bin\Debug\net8.0\Example002_НelloUser.deps.json
+C:\Users\Дашуля\Desktop\Новая папка\Example002_НelloUser\bin\Debug\net8.0\Example002_НelloUser.runtimeconfig.json
+C:\Users\Дашуля\Desktop\Новая папка\Example002_НelloUser\bin\Debug\net8.0\Example002_НelloUser.dll
+C:\Users\Дашуля\Desktop\Новая папка\Example002_НelloUser\bin\Debug\net8.0\Example002_НelloUser.pdb
+C:\Users\Дашуля\Desktop\Новая папка\Example002_НelloUser\obj\Debug\net8.0\Example002_НelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дашуля\Desktop\Новая папка\Example002_НelloUser\obj\Debug\net8.0\Example002_НelloUser.AssemblyInfoInputs.cache
+C:\Users\Дашуля\Desktop\Новая папка\Example002_НelloUser\obj\Debug\net8.0\Example002_НelloUser.AssemblyInfo.cs
+C:\Users\Дашуля\Desktop\Новая папка\Example002_НelloUser\obj\Debug\net8.0\Example002_НelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Дашуля\Desktop\Новая папка\Example002_НelloUser\obj\Debug\net8.0\Example002_НelloUser.sourcelink.json
+C:\Users\Дашуля\Desktop\Новая папка\Example002_НelloUser\obj\Debug\net8.0\Example002_НelloUser.dll
+C:\Users\Дашуля\Desktop\Новая папка\Example002_НelloUser\obj\Debug\net8.0\refint\Example002_НelloUser.dll
+C:\Users\Дашуля\Desktop\Новая папка\Example002_НelloUser\obj\Debug\net8.0\Example002_НelloUser.pdb
+C:\Users\Дашуля\Desktop\Новая папка\Example002_НelloUser\obj\Debug\net8.0\Example002_НelloUser.genruntimeconfig.cache
+C:\Users\Дашуля\Desktop\Новая папка\Example002_НelloUser\obj\Debug\net8.0\ref\Example002_НelloUser.dll
